@@ -12,5 +12,10 @@
  *
  *= require_tree .
  *= require_self
- */
 *= require bootstrap
+ */
+
+
+.navbar {
+	background-color: lightblue;
+}
